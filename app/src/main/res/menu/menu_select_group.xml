@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/menu_course"
+        android:id="@+id/course"/>
+    <item android:title="@string/menu_friends"
+        android:id="@+id/friends"/>
+    <item android:title="@string/menu_school"
+        android:id="@+id/school"/>
+    <item android:title="@string/menu_work"
+        android:id="@+id/work"/>
+    <item android:title="@string/menu_family"
+        android:id="@+id/family"/>
+</menu>
